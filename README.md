@@ -96,39 +96,6 @@
 
 
 ## <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzFhYzJkMmQ2MWQ3ZGY3MDhjZTE3MDI2Mzk3NzE1OWQyZTRlMmYwMCZjdD1z/iY8CRBdQXODJSCERIr/giphy.gif" width=5% valign="bottom"> Github Stats
-
-
-
-
-</details>
-  
-<details><summary><h3>💻 GitHub Profile Stats</h3></summary>
-
-----
-	
-
-
-<details><summary><h3>⚡ Recent GitHub Activity</h3></summary>
-
-----
-	
-
-
-<details><summary> <h3> :trophy: Git profile Trophies </h3></summary>
-
-----
-	
-
-	
-<details><summary><h3> :open_file_folder: My Repositories </h3></summary>
-
-----
-	
-
-	
-
-</br></br>
-
 ## 🐍 A Snake Eating My Contributions Graph
 
 <p align="center">
